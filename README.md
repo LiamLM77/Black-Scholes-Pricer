@@ -45,10 +45,17 @@ Installer les dépendances :
     python pricer_option.py
 
 **Comment l'utiliser**
-Cloner le repo : git clone https://github.com/LiamLM77/Black-Scholes-Pricer.git
-Ouvrir le dossier dans d'un éditeur de code (VS Code recommandé).
+
+Cloner le repo :    
+       
+       git clone https://github.com/LiamLM77/Black-Scholes-Pricer.git
+    
+ Ouvrir le dossier dans d'un éditeur de code (VS Code recommandé).
+     
+Suivre les étapes d'installation ci-dessus.
 
 **Exemple de Résultat (TTE.PA)**
+
 Volatilité historique (1 an) : ~21.5%
 
 Prix Théorique Call (ATM) : 3.90 €
@@ -56,5 +63,5 @@ Prix Théorique Call (ATM) : 3.90 €
 Prix Théorique Put (ATM) : 5.68 €
 
 **Disclaimer**
-Disclaimer Projet personnel réalisé en parallèle de mon Master Ingénierie Économique et Financière. À but pédagogique uniquement.
+ Projet personnel réalisé en parallèle de mon Master Ingénierie Économique et Financière. À but pédagogique uniquement.
 
