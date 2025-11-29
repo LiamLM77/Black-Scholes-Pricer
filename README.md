@@ -58,7 +58,7 @@ Installer les dépendances :
 
 Cloner le repo :    
        
-       git clone https://github.com/LiamLM77/Black-Scholes-Pricer.git
+       git clone https://github.com/LiamLM77//Option-Pricer-BS-MonteCarlo.git
     
  Ouvrir le dossier dans d'un éditeur de code (VS Code recommandé).
      
